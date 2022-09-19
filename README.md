@@ -1,1 +1,1 @@
-Exerc-ciosJava1
+Exercício simples de início de aprendizado
