@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 //import java.util.Scanner;
 
 
-public class ExC {
+public class CorreçãoDeValores {
     
     public static void main(String[] args) {
     double salarioAntigo , salarioAtualizado , conta;   
