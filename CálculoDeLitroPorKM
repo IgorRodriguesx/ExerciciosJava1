@@ -22,11 +22,6 @@ public class ExH {
         conta = km / gasolina;
         JOptionPane.showMessageDialog(null, "Seu carro fez por km: " + conta);
         
-        
-        
-        
-        
-        
     }
     
 }
